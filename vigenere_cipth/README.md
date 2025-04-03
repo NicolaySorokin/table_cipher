@@ -12,3 +12,6 @@
 
     encrypt = vigenere_encrypt(message, key)
     print(encrypt)
+4. Для запуска тестов выполните команду
+    ```bash
+    python -m unittest test_cipther.py

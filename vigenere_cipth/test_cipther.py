@@ -1,5 +1,5 @@
 import unittest
-from table_cipther import vigenere_encrypt
+from vig_cipther import vigenere_encrypt
 
 
 class TestVigenereCipher(unittest.TestCase):
